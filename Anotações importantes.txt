@@ -1,0 +1,17 @@
+Comandos:
+
+git clone (colar o repositório)
+git status
+git add .
+git push origin main
+git pull
+git commit -m "Comentário"
+git config --global user.name Biabia2
+git config --global user.email biabia2@hotmail.com
+
+Links:
+
+https://www.git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+
+Repositório: https://github.com/biabia2/Dio-Desafio-GitHub.git
+
