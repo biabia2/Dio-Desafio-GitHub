@@ -1,17 +1,25 @@
-Comandos:
 
+Introdução ao Git & GitHub
+
+Professores: Otávio Reis e Venilton FalvoJr
+
+Comandos importantes:
 git clone (colar o repositório)
 git status
 git add .
+git commit -m "Comentário"
 git push origin main
 git pull
-git commit -m "Comentário"
 git config --global user.name Biabia2
 git config --global user.email biabia2@hotmail.com
+clear
+ls
 
 Links:
-
 https://www.git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9
 
-Repositório: https://github.com/biabia2/Dio-Desafio-GitHub.git
+Repositório: 
+https://github.com/biabia2/Dio-Desafio-GitHub.git
+
 
